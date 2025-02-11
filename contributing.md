@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Adding to this list](#adding-to-this-list)
-- [Creating your own awesome list](#creating-your-own-awesome-list)
+- [Creating your own awesome list](#creating-your-own-awesome-list) 
 - [Adding something to an Awesome list](#adding-something-to-an-awesome-list)
 - [Updating your Pull Request](#updating-your-pull-request)
 
